@@ -59,3 +59,4 @@ class Sip < Formula
     system "#{Formula["python"].opt_bin}/python3", "-c", "import PyQt5.sip"
   end
 end
+  end
